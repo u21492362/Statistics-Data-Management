@@ -1,0 +1,1125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\appuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\appuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\data\\statisticalcategoryseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\data\\statisticalcategoryseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\interface\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\interface\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\interface\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\interface\\iregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\interface\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\interface\\ilookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\interface\\ilookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\interface\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\interface\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\lookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\lookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\circuitsocietybreakdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\circuitsocietybreakdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\circuitsummaryitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\circuitsummaryitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\circuitsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\circuitsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\circuitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\circuitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\districtviewmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\districtviewmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\dropdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\dropdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\memberclassificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\memberclassificationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\registercaptureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\registercaptureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\registerfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\registerfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\registermembercategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\registermembercategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\registermemberentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\registermemberentryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\societysummaryitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\societysummaryitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\societysummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\societysummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\societyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\societyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\statisticalcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\statisticalcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\viewmodels\\statisticalregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\viewmodels\\statisticalregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\controllers\\registerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\circuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\circuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\registermembercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\registermembercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\registermemberentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\registermemberentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\society.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\society.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\statisticalcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\statisticalcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\statisticalregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\statisticalregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\entities\\statisticalyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\entities\\statisticalyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\enums\\categorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\enums\\categorygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\enums\\registerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\enums\\registerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\backend (sdm).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\backend (sdm).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|c:\\users\\user\\documents\\github\\methodist (sdm)\\backend (sdm)\\backend (sdm)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6938F182-2986-4CA5-BAE1-2833DD02D12D}|Backend (SDM)\\Backend (SDM).csproj|solutionrelative:backend (sdm)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Data\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\Data\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Data\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\Data\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAiwJ4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:14.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Backend (SDM)\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:51:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:46:43.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticalCategorySeed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Data\\StatisticalCategorySeed.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\Data\\StatisticalCategorySeed.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Data\\StatisticalCategorySeed.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\Data\\StatisticalCategorySeed.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:46:17.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:32:09.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\AppUserViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\AppUserViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\AppUserViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\AppUserViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:45:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\AppUser.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:48:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\AuthService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:34:37.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Program.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Program.cs",
+              "RelativeToolTip": "Backend (SDM)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T18:25:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\Member.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:48:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Backend (SDM)\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:49:05.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:31:47.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IReportService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\Interface\\IReportService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IReportService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\Interface\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:40:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IRegisterService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\Interface\\IRegisterService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IRegisterService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\Interface\\IRegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:40:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IMemberService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\Interface\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IMemberService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\Interface\\IMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:41:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILookupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\ILookupService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\Interface\\ILookupService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\ILookupService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\Interface\\ILookupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:40:49.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\Interface\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\Interface\\IDashboardService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\Interface\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:32:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LookupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\LookupService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\LookupService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\LookupService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\LookupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:50.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\DashboardService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\MemberService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\MemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:49.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\RegisterService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\RegisterService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\RegisterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:45.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Services\\ReportService.cs",
+              "RelativeToolTip": "Backend (SDM)\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:43.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:30:46.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:30:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:14:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CircuitSocietyBreakdownViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitSocietyBreakdownViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\CircuitSocietyBreakdownViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitSocietyBreakdownViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\CircuitSocietyBreakdownViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:32:58.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CircuitSummaryItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitSummaryItemViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\CircuitSummaryItemViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitSummaryItemViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\CircuitSummaryItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:44:31.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CircuitSummaryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitSummaryViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\CircuitSummaryViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitSummaryViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\CircuitSummaryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:44:21.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CircuitViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\CircuitViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CircuitViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\CircuitViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:44:11.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\CreateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\CreateUserViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:43:46.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:43:37.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DistrictViewModelcs.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\DistrictViewModelcs.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\DistrictViewModelcs.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\DistrictViewModelcs.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\DistrictViewModelcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:43:31.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DropdownViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\DropdownViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\DropdownViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\DropdownViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\DropdownViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:43:05.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MemberClassificationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\MemberClassificationViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\MemberClassificationViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\MemberClassificationViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\MemberClassificationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:43:12.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MemberViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\MemberViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\MemberViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\MemberViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\MemberViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterCaptureViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterCaptureViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\RegisterCaptureViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterCaptureViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\RegisterCaptureViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:52.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterFilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterFilterViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\RegisterFilterViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterFilterViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\RegisterFilterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:44.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterMemberCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterMemberCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\RegisterMemberCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterMemberCategoryViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\RegisterMemberCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterMemberEntryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterMemberEntryViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\RegisterMemberEntryViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\RegisterMemberEntryViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\RegisterMemberEntryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:30.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SocietySummaryItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\SocietySummaryItemViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\SocietySummaryItemViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\SocietySummaryItemViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\SocietySummaryItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:42:04.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SocietySummaryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\SocietySummaryViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\SocietySummaryViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\SocietySummaryViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\SocietySummaryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:41:59.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SocietyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\SocietyViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\SocietyViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\SocietyViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\SocietyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:41:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StatisticalCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\StatisticalCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\StatisticalCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\StatisticalCategoryViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\StatisticalCategoryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:41:47.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StatisticalRegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\StatisticalRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ViewModels\\StatisticalRegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ViewModels\\StatisticalRegisterViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ViewModels\\StatisticalRegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:41:41.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\WeatherForecast.cs",
+              "RelativeToolTip": "Backend (SDM)\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:22.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\RegistersController.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Controllers\\RegistersController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\RegistersController.cs",
+              "RelativeToolTip": "Backend (SDM)\\Controllers\\RegistersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:49:33.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Backend (SDM)\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\LookupController.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Controllers\\LookupController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\LookupController.cs",
+              "RelativeToolTip": "Backend (SDM)\\Controllers\\LookupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:38:10.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Backend (SDM)\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:49:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:48:42.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Circuit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\Circuit.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\Circuit.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\Circuit.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\Circuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:48:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "District.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\District.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\District.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\District.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\District.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:48:29.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RegisterMemberCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\RegisterMemberCategory.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\RegisterMemberCategory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\RegisterMemberCategory.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\RegisterMemberCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:48:14.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterMemberEntry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\RegisterMemberEntry.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\RegisterMemberEntry.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\RegisterMemberEntry.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\RegisterMemberEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:48:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Society.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\Society.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\Society.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\Society.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\Society.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:47:54.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "StatisticalCategory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\StatisticalCategory.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\StatisticalCategory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\StatisticalCategory.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\StatisticalCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:47:41.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StatisticalRegister.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\StatisticalRegister.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\StatisticalRegister.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\StatisticalRegister.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\StatisticalRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:47:27.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "StatisticalYear.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\StatisticalYear.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Entities\\StatisticalYear.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Entities\\StatisticalYear.cs",
+              "RelativeToolTip": "Backend (SDM)\\Entities\\StatisticalYear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:47:20.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CategoryGroup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\CategoryGroup.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\Enums\\CategoryGroup.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\CategoryGroup.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\Enums\\CategoryGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:46:09.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\Gender.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:45:59.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RegisterStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\RegisterStatus.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\Enums\\RegisterStatus.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\Enums\\RegisterStatus.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\Enums\\RegisterStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:45:52.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Backend (SDM)\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:41:22.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Backend (SDM).http",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Backend (SDM).http",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Backend (SDM).http",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Backend (SDM).http",
+              "RelativeToolTip": "Backend (SDM)\\Backend (SDM).http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-03T18:38:18.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend (SDM)\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\appsettings.json",
+              "RelativeToolTip": "Backend (SDM)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-03T18:29:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend (SDM)\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Methodist (SDM)\\Backend (SDM)\\Backend (SDM)\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend (SDM)\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-12T18:55:15.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

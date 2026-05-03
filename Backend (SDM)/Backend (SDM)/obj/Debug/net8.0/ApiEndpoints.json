@@ -1,0 +1,349 @@
+[
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.LookupController",
+    "Method": "GetCategories",
+    "RelativePath": "api/lookups/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.LookupController",
+    "Method": "GetCircuits",
+    "RelativePath": "api/lookups/circuits",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "districtId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.LookupController",
+    "Method": "GetDistricts",
+    "RelativePath": "api/lookups/districts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.LookupController",
+    "Method": "GetSocieties",
+    "RelativePath": "api/lookups/societies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "circuitId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.LookupController",
+    "Method": "GetYears",
+    "RelativePath": "api/lookups/years",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.MembersController",
+    "Method": "GetAll",
+    "RelativePath": "api/members",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "societyId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.MembersController",
+    "Method": "Create",
+    "RelativePath": "api/members",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Methodist__Statistical_Data_Management_.Models.ViewModels.MemberViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.MembersController",
+    "Method": "GetById",
+    "RelativePath": "api/members/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.MembersController",
+    "Method": "Update",
+    "RelativePath": "api/members/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "Methodist__Statistical_Data_Management_.Models.ViewModels.MemberViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.MembersController",
+    "Method": "Delete",
+    "RelativePath": "api/members/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "GetAll",
+    "RelativePath": "api/registers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "yearId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "societyId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "Create",
+    "RelativePath": "api/registers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Methodist__Statistical_Data_Management_.Models.ViewModels.StatisticalRegisterViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "GetById",
+    "RelativePath": "api/registers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "GetCapture",
+    "RelativePath": "api/registers/{id}/capture",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "AddMemberToRegister",
+    "RelativePath": "api/registers/{id}/entries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "Methodist__Statistical_Data_Management_.Controllers.Api.AddRegisterMemberRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "Finalise",
+    "RelativePath": "api/registers/{id}/finalise",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "Submit",
+    "RelativePath": "api/registers/{id}/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.RegistersController",
+    "Method": "SaveEntryCategories",
+    "RelativePath": "api/registers/entries/{entryId}/categories",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "categories",
+        "Type": "System.Collections.Generic.List\u00601[[Methodist__Statistical_Data_Management_.Models.ViewModels.RegisterMemberCategoryViewModel, Backend (SDM), Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.ReportsController",
+    "Method": "GetCircuitSummary",
+    "RelativePath": "api/reports/circuit-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "yearId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "circuitId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.ReportsController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/reports/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Methodist__Statistical_Data_Management_.Controllers.Api.ReportsController",
+    "Method": "GetSocietySummary",
+    "RelativePath": "api/reports/society-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "yearId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "societyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
